@@ -46,8 +46,8 @@ I know that there are several projects alike from Internet courses and tutorials
 
 ## Author <a name = "author"></a>
 
-[Renato Setoue](https://github.com/psudo-dev)
+[@psudo-dev](https://github.com/psudo-dev)
 
 ## License <a name = "license"></a>
 
-MIT. See `LICENSE` for more information.
+This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE.md) file for details
