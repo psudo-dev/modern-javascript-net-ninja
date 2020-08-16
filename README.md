@@ -5,6 +5,7 @@ Projects and exercises from the course Modern Javascript (from Novice to Ninja) 
 ## Table of Contents
 
 - [About](#about)
+- [Status](#status)
 - [Built Using](#built_using)
 - [Projects](#projects)
 - [Credits](#credits)
@@ -16,6 +17,12 @@ Projects and exercises from the course Modern Javascript (from Novice to Ninja) 
 A lot of times I make changes to the course projects and exercises, I try some new things, add something here and there or even extrapolate to something different.
 
 I know that there are several projects alike from Internet courses and tutorials out there so I will only document the tests I've done and the things I've changed.
+
+## Status <a name = "status"></a>
+
+In progress...
+
+I'm using this as a revision course and to learn a bit more of Javascript.
 
 ## Built Using <a name = "built_using"></a>
 
