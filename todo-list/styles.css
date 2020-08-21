@@ -25,5 +25,12 @@ input[type=text]:focus {
 .check-btn {
     color: #fff;
     font-size: 2em;
-    margin-left: 0.5em;
+}
+
+.check-btn:hover {
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.filtered {
+    display: none !important;
 }
